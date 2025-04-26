@@ -516,16 +516,16 @@ a{
     gap: 2rem;
     justify-content: center;
 }
-.skill-fade-text{
-    position: absolute;
-    font-size: 8em;
-    font-style: bold;
-    color: rgb(231,231,231);
-    right: 0%;
-    bottom: -80%;
-    user-select: none;
-    overflow-y: hidden;
-}
+/* .skill-fade-text{ */
+    /* position: absolute; */
+    /* font-size: 8em; */
+    /* font-style: bold; */
+    /* color: rgb(231,231,231); */
+    /* right: 0%; */
+    /* bottom: -80%; */
+    /* user-select: none; */
+    /* overflow-y: hidden; */
+/* } */
 .blob-style{
     position: absolute;
     top: 50%;
